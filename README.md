@@ -31,7 +31,7 @@ Traditional real estate systems often suffer from:
 
 RialEstate solves these problems by:
 
-- Using **smart contracts** to automate and enforce agreements  
+- Using **Rialo smart contracts** to automate and enforce agreements  
 - Eliminating the need for unreliable intermediaries  
 - Ensuring transparency and immutability of transactions  
 - Protecting ownership rights through secure on-chain records  
