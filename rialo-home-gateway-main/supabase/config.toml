@@ -1,0 +1,10 @@
+project_id = "qnbypoyttgevjrmwbijb"
+
+[functions.paystack-webhook]
+verify_jwt = false
+
+[functions.support-chat]
+verify_jwt = false
+
+[functions.admin-kyc-review]
+verify_jwt = false
